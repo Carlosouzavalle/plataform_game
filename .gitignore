@@ -1,0 +1,52 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas temporárias do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Ignorar configurações locais de usuário
+*.swp
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignorar cache da Unity Asset Store
+**/[Aa]sset[Ss]tore*/
+
+# Ignorar arquivos gerados por versões antigas do Unity
+*[Cc]ache/
+*.unitypackage
+
+# Ignorar arquivos do Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.vscode
+*.sln*
+*.csproj*
+
+# Ignorar arquivos específicos de plataformas
+[Mm]emoryCaptures/
+
+# Ignorar configurações locais do JetBrains Rider
+.idea/
+
+# Ignorar arquivos de lock do Unity
+Logs/
+Temp/
